@@ -38,7 +38,7 @@ TRANSLATIONS = {
 	"Rate": "Hodnotenie",
 
 	"Violations": "Priestupky",
-	"violations": "priestupky,
+	"violations": "priestupky",
 	"Violations of the trip": "Priestupky na úseku trasy",
 	"No violations": "Bez priestupkov",
 	"Trips for %s ": "Jazdy z %s",
