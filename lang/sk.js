@@ -41,7 +41,7 @@ TRANSLATIONS = {
 	"violations": "priestupky",
 	"Violations of the trip": "Priestupky na úseku trasy",
 	"No violations": "Bez priestupkov",
-	"Trips for %s ": "Jazdy z %s",
+	"Trips for %s ": "Jazdy z %s ",
 	"not shorter than %s": "nie kratšie ako %s",
 
 	"trips count": "Počet trás",
