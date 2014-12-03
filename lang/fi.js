@@ -41,7 +41,7 @@ TRANSLATIONS = {
 	"violations": "huomautukset",
 	"Violations of the trip": "Matkan huomautukset",
 	"No violations": "Ei huomautettavaa",
-	"Trips for %s ": "%s matkat",
+	"Trips for %s ": "%s matkat ",
 	"not shorter than %s": "ei lyhyempi kuin %s",
 	
 	"trips count": "matkojen määrä",
