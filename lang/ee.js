@@ -41,7 +41,7 @@ TRANSLATIONS = {
 	"violations": "rikkumistele",
 	"Violations of the trip": "rikkumisi teekonna kohta",
 	"No violations": "Rikkumisi pole",
-	"Trips for %s ": "Sõite %s kohta",
+	"Trips for %s ": "Sõite %s kohta ",
 	"not shorter than %s": "mitte lühem kui %s",
 	
 	"trips count": "Teekondade arvule",
