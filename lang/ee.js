@@ -30,7 +30,7 @@ TRANSLATIONS = {
 	"km/h": "km/h",
 	"mph": "mi/h",
 
-	"violations / km": "rikkumisi/km",
+	"violations / km": "rikkumisi / km",
 	"( %s km/h for %s s )": "(<b>%s</b> km/h <b>%s</b> с  kestel)",
 	"( %s mph for %s s )": "(<b>%s</b mi/h <b>%s</b> с kestel)",
 	"Duration": "Kestus",
