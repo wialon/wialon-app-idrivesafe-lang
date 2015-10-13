@@ -31,8 +31,8 @@ TRANSLATIONS = {
 	"mph": "mi/h",
 
 	"violations / km": "rikkumisi/km",
-	"( %s km/h for %s s )": "(<b>%s</b> km/h <b>%s</b> с  kestel)",
-	"( %s mph for %s s )": "(<b>%s</b mi/h <b>%s</b> с kestel)",
+	"( %s km/h for %s s )": "(<b>%s</b> km/h <b>%s</b> s kestel)",
+	"( %s mph for %s s )": "(<b>%s</b mi/h <b>%s</b> s kestel)",
 	"Duration": "Kestus",
 	
 	"Rate": "Hinne",
